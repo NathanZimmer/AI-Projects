@@ -1,0 +1,98 @@
+Player move: 0 0
+0   
+    
+    
+    
+
+Computer move:
+0X  
+    
+    
+    
+
+Player move: 1 0
+0X  
+0   
+    
+    
+
+Computer move:
+0XX 
+0   
+    
+    
+
+Player move: 2 0
+0XX 
+0   
+0   
+    
+
+Computer move:
+0XX 
+0  X
+0   
+    
+
+Player move: 3 0
+0XX 
+0  X
+0   
+0   
+
+Computer move:
+0XX 
+0X X
+0   
+0   
+
+Player move: 1 2
+0XX 
+0X0X
+0   
+0   
+
+Computer move:
+0XX 
+0X0X
+0 X 
+0   
+
+Player move: 0 3
+0XX0
+0X0X
+0 X 
+0   
+
+Computer move:
+0XX0
+0X0X
+0 X 
+0X  
+
+Player move: 2 1
+0XX0
+0X0X
+00X 
+0X  
+
+Computer move:
+0XX0
+0X0X
+00X 
+0X X
+
+Player move: 3 2
+0XX0
+0X0X
+00X 
+0X0X
+
+Computer move:
+0XX0
+0X0X
+00XX
+0X0X
+
+player scored: 14    computer scored: 13
+player wins!!

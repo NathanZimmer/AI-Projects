@@ -1,0 +1,11 @@
+10
+medium
+low
+medium
+high
+medium
+high
+high
+undetermined
+medium
+medium
