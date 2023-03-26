@@ -1,0 +1,1 @@
+This project is a modified version of the other nearest neighbor function from this repository. It has been modified to classify nxn "black and white images" made up of 0s and 1s inside of a text file. With the current training data, it can identify images of ones and zeros.
