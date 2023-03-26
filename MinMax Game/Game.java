@@ -1,6 +1,6 @@
 /* 
  * DESC: uses MinMax function with depth limit and alpha-beta pruning to quickly play a game
- * GAME: the game is player on a nxn board. The player and computer take turns placing on the board. The goal is to get as many in a row as possible
+ * GAME: the game is player on a nxn board. The player and computer take turns placing on the board. The goal is to get as many in a row as possible before the board fills
  *       two points are received for each two in a row on the board. Three points are recieved for each three in a row. These values can stack (Ex: three in a row gives you 7 points because there is one three and two twos)
  *       the game does not account for illegal moves
  */
