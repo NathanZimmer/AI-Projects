@@ -1,0 +1,1 @@
+This is a nearest neighbor function that classifies data based on credit score, income, age, sex, and marital status. It is meant to imitate algorithms used to classify loan applicants. It classifies records into low risk, medium risk, high risk, and undetermined.
