@@ -1,5 +1,5 @@
 # AI-Projects
-This is a compilation of projects that I created for my Artificial Intelligence class. Each of these algorithms is an assignment that I had to complete using lectures from my professor and pseudocode posted on the class website. 
+This is a compilation of projects that I created for my Artificial Intelligence class. I had to design each of these algorithms using lectures from my professor and pseudocode posted on the class website. 
 
 These projects include:
 - nearest neighbor algorithm for evaluating loan applicants
